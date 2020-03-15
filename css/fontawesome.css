@@ -1,0 +1,380 @@
+/*!
+ * Font Awesome Free 5.6.0 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa, .fab, .far, .fas {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1
+}
+
+.fa-1x {
+    font-size: 1em
+}
+
+.fa-2x {
+    font-size: 2em
+}
+
+.fa-3x {
+    font-size: 3em
+}
+
+.fa-4x {
+    font-size: 4em
+}
+
+.fa-5x {
+    font-size: 5em
+}
+
+.fa-6x {
+    font-size: 6em
+}
+
+.fa-7x {
+    font-size: 7em
+}
+
+.fa-8x {
+    font-size: 8em
+}
+
+.fa-9x {
+    font-size: 9em
+}
+
+.fa-10x {
+    font-size: 10em
+}
+
+.fa-ul {
+    list-style-type: none;
+    margin-left: 2.5em;
+    padding-left: 0
+}
+
+.fa-ul > li {
+    position: relative
+}
+
+.fa-li {
+    left: -2em;
+    position: absolute;
+    text-align: center;
+    width: 2em;
+    line-height: inherit
+}
+
+@keyframes fa-spin {
+    0% {
+        transform: rotate(0)
+    }
+    to {
+        transform: rotate(1turn)
+    }
+}
+
+.fa-stack {
+    display: inline-block;
+    height: 2em;
+    line-height: 2em;
+    position: relative;
+    vertical-align: middle;
+    width: 2.5em
+}
+
+.fa-stack-1x, .fa-stack-2x {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    width: 100%
+}
+
+.fa-stack-1x {
+    line-height: inherit
+}
+
+.fa-stack-2x {
+    font-size: 2em
+}
+
+.fa-ad:before {
+    content: "\f641"
+}
+
+.fa-align-center:before {
+    content: "\f037"
+}
+
+.fa-align-left:before {
+    content: "\f036"
+}
+
+.fa-align-right:before {
+    content: "\f038"
+}
+
+.fa-apple:before {
+    content: "\f179"
+}
+
+.fa-at:before {
+    content: "\f1fa"
+}
+
+.fa-aws:before {
+    content: "\f375"
+}
+
+.fa-bitbucket:before {
+    content: "\f171"
+}
+
+.fa-building:before {
+    content: "\f1ad"
+}
+
+.fa-check:before {
+    content: "\f00c"
+}
+
+.fa-check-circle:before {
+    content: "\f058"
+}
+
+.fa-circle:before {
+    content: "\f111"
+}
+
+.fa-cloud:before {
+    content: "\f0c2"
+}
+
+.fa-copyright:before {
+    content: "\f1f9"
+}
+
+.fa-css3:before {
+    content: "\f13c"
+}
+
+.fa-digital-ocean:before {
+    content: "\f391"
+}
+
+.fa-edge:before {
+    content: "\f282"
+}
+
+.fa-facebook:before {
+    content: "\f09a"
+}
+
+.fa-facebook-f:before {
+    content: "\f39e"
+}
+
+.fa-first-order:before {
+    content: "\f2b0"
+}
+
+.fa-git:before {
+    content: "\f1d3"
+}
+
+.fa-github:before {
+    content: "\f09b"
+}
+
+.fa-gitlab:before {
+    content: "\f296"
+}
+
+.fa-grunt:before {
+    content: "\f3ad"
+}
+
+.fa-hand-peace:before {
+    content: "\f25b"
+}
+
+.fa-heading:before {
+    content: "\f1dc"
+}
+
+.fa-html5:before {
+    content: "\f13b"
+}
+
+.fa-image:before {
+    content: "\f03e"
+}
+
+.fa-instagram:before {
+    content: "\f16d"
+}
+
+.fa-jira:before {
+    content: "\f7b1"
+}
+
+.fa-js:before {
+    content: "\f3b8"
+}
+
+.fa-laravel:before {
+    content: "\f3bd"
+}
+
+.fa-link:before {
+    content: "\f0c1"
+}
+
+.fa-linkedin:before {
+    content: "\f08c"
+}
+
+.fa-linkedin-in:before {
+    content: "\f0e1"
+}
+
+.fa-linode:before {
+    content: "\f2b8"
+}
+
+.fa-list:before {
+    content: "\f03a"
+}
+
+.fa-list-ul:before {
+    content: "\f0ca"
+}
+
+.fa-markdown:before {
+    content: "\f60f"
+}
+
+.fa-medium:before {
+    content: "\f23a"
+}
+
+.fa-mobile:before {
+    content: "\f10b"
+}
+
+.fa-npm:before {
+    content: "\f3d4"
+}
+
+.fa-paypal:before {
+    content: "\f1ed"
+}
+
+.fa-peace:before {
+    content: "\f67c"
+}
+
+.fa-php:before {
+    content: "\f457"
+}
+
+.fa-route:before {
+    content: "\f4d7"
+}
+
+.fa-slack:before {
+    content: "\f198"
+}
+
+.fa-star:before {
+    content: "\f005"
+}
+
+.fa-stripe:before {
+    content: "\f429"
+}
+
+.fa-text-height:before {
+    content: "\f034"
+}
+
+.fa-text-width:before {
+    content: "\f035"
+}
+
+.fa-tools:before {
+    content: "\f7d9"
+}
+
+.fa-twitter:before {
+    content: "\f099"
+}
+
+.fa-university:before {
+    content: "\f19c"
+}
+
+.fa-user:before {
+    content: "\f007"
+}
+
+.fa-user-check:before {
+    content: "\f4fc"
+}
+
+.fa-user-circle:before {
+    content: "\f2bd"
+}
+
+.fa-user-graduate:before {
+    content: "\f501"
+}
+
+.fa-vuejs:before {
+    content: "\f41f"
+}
+
+@font-face {
+    font-family: "Font Awesome 5 Brands";
+    font-style: normal;
+    font-weight: 400;
+    src: url(webfonts/fa-brands-400.eot);
+    src: url(webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(webfonts/fa-brands-400.woff2) format("woff2"), url(webfonts/fa-brands-400.woff) format("woff"), url(webfonts/fa-brands-400.ttf) format("truetype"), url(webfonts/fa-brands-400.svg#fontawesome) format("svg")
+}
+
+.fab {
+    font-family: "Font Awesome 5 Brands"
+}
+
+@font-face {
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: 400;
+    src: url(webfonts/fa-regular-400.eot);
+    src: url(webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(webfonts/fa-regular-400.woff2) format("woff2"), url(webfonts/fa-regular-400.woff) format("woff"), url(webfonts/fa-regular-400.ttf) format("truetype"), url(webfonts/fa-regular-400.svg#fontawesome) format("svg")
+}
+
+.far {
+    font-weight: 400
+}
+
+@font-face {
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: 900;
+    src: url(webfonts/fa-solid-900.eot);
+    src: url(webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(webfonts/fa-solid-900.woff2) format("woff2"), url(webfonts/fa-solid-900.woff) format("woff"), url(webfonts/fa-solid-900.ttf) format("truetype"), url(webfonts/fa-solid-900.svg#fontawesome) format("svg")
+}
+
+.fa, .far, .fas {
+    font-family: "Font Awesome 5 Free"
+}
+
+.fa, .fas {
+    font-weight: 900
+}
